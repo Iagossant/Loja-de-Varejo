@@ -1,0 +1,28 @@
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\bin\Debug\net8.0\Varejo.exe
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\bin\Debug\net8.0\Varejo.deps.json
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\bin\Debug\net8.0\Varejo.runtimeconfig.json
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\bin\Debug\net8.0\Varejo.dll
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\bin\Debug\net8.0\Varejo.pdb
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.GeneratedMSBuildEditorConfig.editorconfig
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.AssemblyInfoInputs.cache
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.AssemblyInfo.cs
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.csproj.CoreCompileInputs.cache
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.dll
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\refint\Varejo.dll
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.pdb
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\Varejo.genruntimeconfig.cache
+\\info\Informática\Turma 09\Iago\Logica\Varejo\Varejo\obj\Debug\net8.0\ref\Varejo.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\bin\Debug\net8.0\Varejo.exe
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\bin\Debug\net8.0\Varejo.deps.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\bin\Debug\net8.0\Varejo.runtimeconfig.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\bin\Debug\net8.0\Varejo.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\bin\Debug\net8.0\Varejo.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.AssemblyInfoInputs.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.AssemblyInfo.cs
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.csproj.CoreCompileInputs.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\refint\Varejo.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\Varejo.genruntimeconfig.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Varejo\Varejo\obj\Debug\net8.0\ref\Varejo.dll
